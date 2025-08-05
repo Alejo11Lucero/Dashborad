@@ -18,7 +18,8 @@ Simula un dashboard moderno que muestra métricas falsas animadas y un gráfico,
 
 ## 📷 Vista previa
 
-> Agregá una imagen o gif del dashboard acá si querés destacarlo visualmente
+<img width="1911" height="904" alt="image" src="https://github.com/user-attachments/assets/cafae529-8704-40e1-b0ed-dd35f935d383" />
+
 
 ---
 
